@@ -1,4 +1,4 @@
-# Posture Classification using Machine Learning
+## Posture Classification with Neural Networks & Activation Functions Comparison
 
 ## Overview
 
